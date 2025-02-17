@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello git 
-Szerksztem a fájlt offline
-=======
-Hello world
-Szerkesztve
->>>>>>> 8e630ccba5bc9a07f664d9ce0c473a7dc83fcd29
